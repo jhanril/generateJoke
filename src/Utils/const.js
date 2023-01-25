@@ -1,0 +1,1 @@
+export const jokeSourceUrl = 'https://official-joke-api.appspot.com/random_joke';
